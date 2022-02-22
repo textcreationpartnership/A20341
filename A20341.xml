@@ -1,0 +1,450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antidotharius in the whiche thou mayst learne howe thou shalte make many, and dyuers noble playsters, salues, oyntement, powders, bawmes, oyles, and wou[n]de drynkes, the whiche be very necessary, and behouefull, vtyle, and profytable, for euery surgyan, therin to be experte, and redy at all tymes of nede.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1542</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20341</idno>
+            <idno type="STC">STC 675A</idno>
+            <idno type="STC">ESTC S110619</idno>
+            <idno type="EEBO-CITATION">99846130</idno>
+            <idno type="PROQUEST">99846130</idno>
+            <idno type="VID">11076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 71:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antidotharius in the whiche thou mayst learne howe thou shalte make many, and dyuers noble playsters, salues, oyntement, powders, bawmes, oyles, and wou[n]de drynkes, the whiche be very necessary, and behouefull, vtyle, and profytable, for euery surgyan, therin to be experte, and redy at all tymes of nede.</title>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by me Robert Wyer, dwellyng at the sygne of saynt Ioh[a]n Euangelyst, in saynt Martyns parysshe: besyde Charynge Crosse,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1542?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date suggested by STC.</note>
+                  <note>This edition distinguished from others by title page variant spelling: oyntement.</note>
+                  <note>Signatures: A-E⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Wounds and injuries --  Treatment --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Surgery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="colophon">
+            <pb facs="tcp:11076:1"/>
+            <p>¶Imprynted at London in Paules church yearde, at the ſygne of the may<g ref="char:EOLhyphen"/>dens head by Tho<g ref="char:EOLhyphen"/>mas Petyt.</p>
+            <p>M.D.XLj.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:11076:1"/>
+            <p>¶The Antido<g ref="char:EOLhyphen"/>tharius, in the whiche thou mayſt learne howe thou ſhalte make many, and dyuers noble playſters ſalues, oyntement, powders, hawmes, oyfes, and wou<g ref="char:cmbAbbrStroke">̄</g>de drynkes, the whiche be very neceſſary, and behouefull, vtyle, and profytable, for euery Surgyan, therin to be experte, and redy at all tymes of nede.</p>
+            <p>
+               <figure>
+                  <figDesc>printer's device of Robert Wyer, featuring John the Evangelist (McKerrow 70)</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="recipes">
+            <pb facs="tcp:11076:2"/>
+            <head>¶Gracia dei, lyke as mayſter Peter de Argelata, ſet in the boke of the fleſſhe makynge medycynes.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Ake whyte Roſyn, whyte wax Arimoniacum of eche .xii. oun<g ref="char:EOLhyphen"/>ces, Turpentyne .vi. ounces, Galbanum, Olibanum, Ma<g ref="char:EOLhyphen"/>ſtycke, clere good wyne, of eche an ounce, Ariſtologia rotu<g ref="char:cmbAbbrStroke">̄</g>da halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce. And weake of this that is nede to weake in wyne: therin is ſodden Betonia, Veibena, Conſolida maior, &amp; minor, Sentoria, Pim<g ref="char:EOLhyphen"/>pinella, Saynt Iohn<g ref="char:cmbAbbrStroke">̄</g>s herbe, or Ipericon, Storkes bylle, or herba Rubea in latyn, of eche an handefull, &amp; all this percelles ye ſhall ſet in the wyne tyl the wyne be almoſt conſu<g ref="char:EOLunhyphen"/>med, &amp; after make it with womans mylke, as it belo<g ref="char:cmbAbbrStroke">̄</g>geth, this playſter cauſeth y<hi rend="sup">e</hi> fleſſhe to growe and healeth, and it is co<g ref="char:cmbAbbrStroke">̄</g>men for all wou<g ref="char:cmbAbbrStroke">̄</g>des and fractures of the bones. And the ſurgyans that nowe be prayſeth it moche.</p>
+            <div type="recipe">
+               <head>¶To make a grene wounded playſter.</head>
+               <p>THe good grene wounded playſter that the newe ſurgyans occupy, y<hi rend="sup">t</hi> heleth al freſſhe woundes without tentes, and it is a
+<pb facs="tcp:11076:2"/> mundificatluum, a conglutinatiuum, and a conſolidatiuu<g ref="char:cmbAbbrStroke">̄</g>. And this playſter is of many and dyuers maners of ſou<g ref="char:cmbAbbrStroke">̄</g>drye mayſters mai<g ref="char:EOLunhyphen"/>de, ſome take moche Roſyn, and lytel waxe. Some moche waxe, and lytell Roſyn, and ſome take waxe &amp; Roſyn alyke moche, and ſome take no Roſyn at all. Therfore ye ſhall know as ye wyl that this ſame playſter ſhal more heale than clenſe, lyke as it is nedeſy in the wounde of the heed, &amp; in a ſymple woun<g ref="char:EOLhyphen"/>de, there as no ſubſtaunce is loſte. If that ye take more waxe in weyght ſo moche y<hi rend="sup">e</hi> leſſer take of Roſyn in weyght, &amp; let them twane euery tyme in his weyght, &amp; as ye wyll that it clenſe more takynge to her the matter, lyke as a depe ſtytched wounde whiche maketh moche matter, than ſhall you take more Ro<g ref="char:EOLhyphen"/>ſyn than waxe, as ye haue ſayde. If ye wyll that the playſter ſhal make fleſſhe to growe, and ſhall ſerue to all woundes, whiche ſom<g ref="char:EOLhyphen"/>what hath loſte of his ſubſtaunce, than take Roſyn, and waxe of eche alyke moche, or yf ye wyl that it make the ſkynne, and that the wounde ſhuld cloſe, than take waxe alone and no Roſyn, and as in this playſter is mo<g ref="char:EOLhyphen"/>che Roſyn, and lytel waxe, then it is called a mundificatiuum, and attractiuum, that is
+<pb facs="tcp:11076:3"/> clenſynge, and drawynge out the matter, yf there be therin moche waxe and lyter Roſyn, than it is called congfutinatiuum, that is to gyther leuynge and cloſynge of the wou<g ref="char:cmbAbbrStroke">̄</g>de. And yf there be therin wax and Roſyn lyke moche: than it is called incarnatiuum that is fleſſhe makynge in the wounde. Or yf there be therin waxe &amp; no Roſyn, than it is called conſolidatiuum, that is helynge and ſkynne makynge. And this playſter is made thus.</p>
+               <p>¶Take reſine de pino, that is whyte roſyn, Mayden waxe, of eche two pou<g ref="char:cmbAbbrStroke">̄</g>de, and that roſyn which is clere as turpentyn, Dere ſuet of eche .xii. ounces, grekes pytche .viii. oun<g ref="char:EOLhyphen"/>ces, Sarcocolle ſmall &amp; great of eche .iii. oun<g ref="char:EOLhyphen"/>ces, Turpentyne talfe a pounde, Maſtyke, whyte Franke<g ref="char:cmbAbbrStroke">̄</g>ſence of eche .iiii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, Dra<g ref="char:EOLhyphen"/>gantum, Go<g ref="char:cmbAbbrStroke">̄</g>mi Arabici, Galbanum, Ar<g ref="char:EOLhyphen"/>moniacum of eche one ou<g ref="char:cmbAbbrStroke">̄</g>ce and a half. Sto<g ref="char:EOLhyphen"/>racis calamite .ii. ounces, Storacie liquide. iiii. ounces. And take the ſap of theſe herbes that ye can get, wynter grene ſmall &amp; great or Pirola magoret minor, Sanicle, or Dia<g ref="char:EOLhyphen"/>renſta in latyn, Syndawe, Veronica maior et minor, or herba Saracenica, herba Sol<g ref="char:EOLhyphen"/>ſequii, Co<g ref="char:cmbAbbrStroke">̄</g>ſolida minor, Moderworte, or Ar<g ref="char:EOLunhyphen"/>themeſia in latyn, Planeayne ſmall &amp; great,
+<pb facs="tcp:11076:3"/> Betonia, Agremonia, Farraria, Matriſil<g ref="char:EOLhyphen"/>ua, Balderion, Iarrowe, or Cerifolium in latyn, Sage or Saluia in latyn, Vervena, Mouſere, waltrote or Ambora, of theſe her<g ref="char:EOLhyphen"/>bes take ſap .ix. pounde and no leſſe, but ra<g ref="char:EOLhyphen"/>ther more, bycauſe to eche pounde of the ſub<g ref="char:EOLhyphen"/>ſtau<g ref="char:cmbAbbrStroke">̄</g>ce of this playſter belongeth ful .iii. pou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>de ſappes. That ſappe, whyte roſyn, waxe, Hartes ſuet, and Roſyn, and Colofonia, ye ſhall ſethe in a kettyll ouer the fyre, without flame or ſmoke tyl two partes therof be con<g ref="char:EOLhyphen"/>ſumed, than do therin Turpentyn. But the go<g ref="char:cmbAbbrStroke">̄</g>mes as Dragantum, Gommi Arabici, Galbanu<g ref="char:cmbAbbrStroke">̄</g>, Armoniacu<g ref="char:cmbAbbrStroke">̄</g>. This ſhall be fyrſte ſteped one nyght in vynegre of Roſes, and as it is ſoden a walme or .iii. than ſhall ye the other go<g ref="char:cmbAbbrStroke">̄</g>mes make in powder, &amp; do it therin and let it ſethe agayne .ii. or .iii. walmes, and at the laſt do therin Storax liquida, &amp; Cala<g ref="char:EOLhyphen"/>mita, yf ye wyll haue better ſmellyng, than do therto Bemeſym or Barotus .iii. ounces. And yf ye wyll haue it very well ſmellynge than do therto .ii. or .iii. ou<g ref="char:cmbAbbrStroke">̄</g>ces of oyle of ſpik, than ſtrayne it through a cloth, &amp; let it ſta<g ref="char:cmbAbbrStroke">̄</g>de a nyght, the nexte daye cut this ſalue in .iiii. peces, and than take it out of the ketyll, and make therof rolles with freſſhe oyle of Ro<g ref="char:EOLhyphen"/>ſes,
+<pb facs="tcp:11076:4"/> yf ye wyl haue this playſter fayre grene than do therto y<hi rend="sup">e</hi> ſap of Nyghtſhawe, or So<g ref="char:EOLunhyphen"/>latri in latyn, and ſap of Eldre, and Celido<g ref="char:EOLhyphen"/>nia of eche .iii. pounde therwith let the ſalue ſeth agayne. but nat longe, the longer it doth ſeth the paler it waxeth. But theſe herbes be nat ſo holſome as the other be, neuertheleſſe ſome mayſters doth this ſap therin, and they knowe nat what vertue and power they ha<g ref="char:EOLhyphen"/>ue. The nyght ſhawe coleth and ſofteth, ſo doth the Elder alſo, and Celidonia clenſyth, therfore as ye put in this ſalue moch Roſyn, ſo may ye the better this ſame ſap do therto, and .ii. or .iii. ounces of Myrra, than clenſe it the more. Neuer can come a good conſolida<g ref="char:EOLhyphen"/>tiuum without a mundificatiuum, for that mundificatiuum is the key of the incarnati<g ref="char:EOLhyphen"/>uum and conſolidatiuum.</p>
+            </div>
+            <div type="recipe">
+               <head>¶For to make an Apoſtolicum ſalue, af<g ref="char:EOLhyphen"/>ter the Antidothario Nicholai.</head>
+               <p>TAke Litargirium .xii. ounces, Grekes pytche, red waxe, of eche .iiii. ounces, Oken myſtyndyn, with waxe of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ces, Armoniacum, Magnete ſtone, whiche is called the Lodeſtone of eche an ounce and a halfe, Sarcocolle, Squama eris, Dyptan and Ariſtologia longa, Spaynyſſhe grene,
+<pb facs="tcp:11076:4"/> Appoponatum of eche .iii. dragmas, whyte Frankenſence, Maſtycke of eche .ii. ounces, Tutpentyne, Galbanum, Bdelium, Myr<g ref="char:EOLhyphen"/>ra, brent Coper of eche .iii. dragma, that lita<g ref="char:EOLhyphen"/>girium ſhal ye ſtampe in powder, and therto do .viii. ounces of oyle Olyue, and let it ſeth togyther on the fyre y<hi rend="sup">t</hi> it be thycke as waxe, and that ſhall ye drope on a ſtone in a profe. Than do therto the Turpentyne, the whyte and red wax as y<hi rend="sup">t</hi> is melted. Than do therin the Galbanum, Appoponatum, Bdellium: Sarcocolle weked one nyght in vynegre ſo<g ref="char:EOLunhyphen"/>den &amp; ſtrayned, &amp; than put it therin togyther and than take it from the fyre and do therin the go<g ref="char:cmbAbbrStroke">̄</g>mes. And as it be warme, than ſhal ye do therin all the other parcelles, the one after the other made in powder, and ſtyre it tyll it be colde, and than may ye make it in rolles.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Of the Exicrocium playſter wry<g ref="char:EOLhyphen"/>teth Nicolaus in his Antido<g ref="char:EOLhyphen"/>thario, and this is nedefull to euery good ſurgyan.</head>
+               <p>TAke Saffran, ſhyp Pytche ſtrayned, Grekes pytch, new wax of eche .viii. ounces, Turpentyne, Galbanu<g ref="char:cmbAbbrStroke">̄</g>, Armonia<g ref="char:EOLhyphen"/>cu<g ref="char:cmbAbbrStroke">̄</g>, Myrre, Maſtyke, whyte Frankenſence, of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces &amp; .iii. dragmes. This playſter
+<pb facs="tcp:11076:5"/> make thus, melte the waxe, ſhyp Pytche, Grekes pytche, Turpentyne. And melte it togyther, when that is molten do therin gal<g ref="char:EOLunhyphen"/>banu<g ref="char:cmbAbbrStroke">̄</g>, Armoniacum, one nyght ſteped in vy<g ref="char:EOLhyphen"/>negre, ſodden and ſtrayned and do it therin. Then ſhall ye ſeth it agayne tyll the Vyne<g ref="char:EOLhyphen"/>gre be conſumed, and ſtyre it well togyther, and than do therin the other parcelles made in powder, and ſtyre it tyll it begyn to waxe colde, than caſt it vpon a colde ſtone, and ye ſhall anoynte the ſtone fyrſte with oyle of Bay leues (or olio Lauri in latyn) and than worke the Saffran therin, and whan ye ha<g ref="char:EOLhyphen"/>ue ſo done, than may ye make rolles of it.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Make this Diaquiſon playſter after the Antidothario Meſue.</head>
+               <p>TAke Litargerium .xxiiii. ounces, oyle of blewe lylles, oyle of camomyll, oyle of Dell, or Anetum in latyn of eche .xiii. ounces: Lynſedes ſleme, Fenegrekes ſle<g ref="char:EOLunhyphen"/>me, hye Malow rotes ſleme, ſleme of Fyxe, ſap of Yrios, ſap of Merſybelen, the grece ſo<g ref="char:EOLunhyphen"/>den of the woll that hangeth bytwene the feggꝭ of the ſhepe, byrd ſyme (or viſcus quer<g ref="char:EOLhyphen"/>ci in latyn) of eche .xxv. ounces, Turpe<g ref="char:cmbAbbrStroke">̄</g>tyne vi. ounces, whyte Roſyn, yelowe waxe of eche .iiii. ounces, take Litargirium and make
+<pb facs="tcp:11076:5"/> it in powder, and dreſſe it with y<hi rend="sup">e</hi> oyle ſleme and greſe, that it be thycke as waxe as it is dropped vpon a ſtone, than do therto that waxe, roſyn, turpentyne, and as it is mol<g ref="char:EOLhyphen"/>ten togyther, than ſtyre it togyther tyll it be colde, and therof make rolles with the oyle of whyte Lyllyes.</p>
+            </div>
+            <div type="recipe">
+               <head>¶To make a ſere cloth playſter good for all membres that is out of the ioynt, and the conſumynge me<g ref="char:cmbAbbrStroke">̄</g>bres, or whiche is gre<g ref="char:EOLhyphen"/>uyd with colde moyſtnes: that conſu<g ref="char:EOLhyphen"/>myth, and bryngeth the membre agayne in his ryght power.</head>
+               <p>TAke waxe .vi. ou<g ref="char:cmbAbbrStroke">̄</g>ces: roſyn .iii. ounces, maſtyke .ii. ounces, armoniacu<g ref="char:cmbAbbrStroke">̄</g>, galba<g ref="char:EOLhyphen"/>num, whyte Frankenſence of eche an ounce and a halfe, oyle of Bybergeylle (or olinin Caſtorii in latyn, oyle of Camomyll of eche an ounce, Fenegreke meele, meele of worm<g ref="char:EOLhyphen"/>wode, meele of Combarte, Comyn, meele of Camomylle flowers, make all this in ſmall powder of eche a dragma, vynegre .v. or .vi. oilcꝭ meli y<hi rend="sup">e</hi> roſyn, wax, &amp; the oyle togyther, than do therin the galbanu<g ref="char:cmbAbbrStroke">̄</g>, &amp; armoniacu<g ref="char:cmbAbbrStroke">̄</g> ſte<g ref="char:EOLhyphen"/>ped in vynegre &amp; ſtrayne it, and at the laſt do to y<hi rend="sup">e</hi> other percelles, y<hi rend="sup">t</hi> is made in ſmall pow<g ref="char:EOLhyphen"/>der, &amp; ſtyre it well togyther tyll it be colde.</p>
+            </div>
+            <div type="recipe">
+               <pb facs="tcp:11076:6"/>
+               <head>¶To make a good Iewes playſter to freſſhe woundes.</head>
+               <p>TAke whyte wax .iiii. pounde, Raſino de Pino, that is whyte Roſyn, Tur<g ref="char:EOLhyphen"/>pentyne of eche .ii. pou<g ref="char:cmbAbbrStroke">̄</g>de, oyle of Roſes one pou<g ref="char:cmbAbbrStroke">̄</g>de, maſtyke, whyte frankenſence, myrra of eche .ii. ounces, freſſhe leues of Roſes .iiii. ounces, red wyne one meſure of thre pou<g ref="char:cmbAbbrStroke">̄</g>de, of al theſe herbes take that ye may get, wyn<g ref="char:EOLunhyphen"/>ter grene, or Pirola in latyn, Syndowe, Diape<g ref="char:cmbAbbrStroke">̄</g>ſia, waltmaſter, or Matriſiſua in la<g ref="char:EOLhyphen"/>tyn, herba ſeraſenica, herba tunici, herba ſol<g ref="char:EOLhyphen"/>ſequii, betonia, conſolida minor, furnus ter<g ref="char:EOLhyphen"/>re, Plantayne great and ſmall, ſtorkes byll, or herba Rubea in latyn, Valeriana, of eche a lyke moche, tyll ye haue ynough, and good wyne, tyl ye haue ynough, ſta<g ref="char:cmbAbbrStroke">̄</g>pe the herbes, and threſt therout the ſap, &amp; put y<hi rend="sup">e</hi> wyne on the herbes y<hi rend="sup">t</hi> they maye become well moyſty with the wyne, and let it well ſethe with the aforeſayd wyne. Than ſtrayne it through a cloth, than do the ſap &amp; the wyne in a kettyll therin do the waxe, Turpentyne, Roſyn, &amp; oyle, than ſhall you ſethe the Roſes with the red wyne vntyll it gyue a blewe flame, than ſtrayne it throughe a cloth, and do it alſo in the kettel, and let it ſeth altogyther .v. or .vi.
+<pb facs="tcp:11076:6"/> houres longe, than take ii from the fyre, and let it be colde, &amp; the next day melt it agayne, and do therin the Maſtyke, Frankencence, &amp; Myrre, made all in powder, and do it in the kettyll, and let it ſethe togyther a walme, or twayne, &amp; than take it of from the fyre, and lette it be colde, than ye haue a ryght Iewes playſter y<hi rend="sup">t</hi> all wou<g ref="char:cmbAbbrStroke">̄</g>des heleth without tentes.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Emplaſtrum Attractiuum, that is mundificatiuum, that is to ſay, a drawyng plaſter, y<hi rend="sup">e</hi> draweth to hym the matter, and all vnclennes of the impo<g ref="char:EOLhyphen"/>ſtumacyon, vlceracy<g ref="char:EOLhyphen"/>on, and ſwerynge &amp; of all vnclene woundes.</head>
+               <p>TAke whyte Roſyn a pounde, mayden waxe halfe a pou<g ref="char:cmbAbbrStroke">̄</g>de, hartes ſuet .viii. ounces, turpentyne .iiii. ounces, Sarcocolle .ii. ounces, maſtyke, whyte Frankencence of eche an ounce, Myrra, Aloe, Succrotini of eche halfe an ounce, melte that waxe, roſyn, and the Hartes ſuet togyther, and ſtrayne it throughe a clothe, than do therto the turpen<g ref="char:EOLhyphen"/>tyoe, and the other parcelles in powder and oyle of roſes .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, ſtyre this togyther tyll
+<pb facs="tcp:11076:7"/> it be colde, wyll ye haue this red than do ther in ſinopre in powder, yf ye wyl haue it fayre yelowe, than do therin a dragma of ſaffron in powder, yf ye wyll haue it grene, ſo ſethe ſap of y<hi rend="sup">e</hi> herbes therwith, therof is ſayd afore in the grene playſter.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A playſter that draweth out arowe hedes, habergoynes, maylles, and all that of yron is in the mannes body.</head>
+               <p>TAke apoſtolicu<g ref="char:cmbAbbrStroke">̄</g> Nicolai aforeſaid two ou<g ref="char:cmbAbbrStroke">̄</g>ce, Magnete ſtone of Orient, that hath his power halfe an ounce, Hares greſe, Hempſede oyle, of eche halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce, whyts Diptum a dragma melte that greſe, and the oyle ſoftly togyther, &amp; do the other parcelles therin, that is made in powder, and ſtyrre it togyther tyll it be colde.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A playſter to take out thornes, ſplyntꝭ, glas, bones, and other lyke thynges, that is in mannes body.</head>
+               <p>TAke Diaquilon plaiſter out of this an<g ref="char:EOLunhyphen"/>tidothario .iii. ounces, Magnete ſtone halfe an ounce, the rote of Polipodium, the roote of whyte Dyptan, the rote of Rethe, called in latyn Aru<g ref="char:cmbAbbrStroke">̄</g>do, of eche a dragma and an halfe, Hares greſe an ou<g ref="char:cmbAbbrStroke">̄</g>ce and an halfe,
+<pb facs="tcp:11076:7"/> oyle of Hempſede an ounce, herof make a playſter as is aforeſayde.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A ſoft playſter y<hi rend="sup">t</hi> clenſeth all foule wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>des y<hi rend="sup">t</hi> is olde, they y<hi rend="sup">t</hi> hath roten fleſſhe or maketh moche matter, &amp; is called mu<g ref="char:cmbAbbrStroke">̄</g>di<g ref="char:EOLunhyphen"/>ficatinu<g ref="char:cmbAbbrStroke">̄</g> de apiu<g ref="char:cmbAbbrStroke">̄</g>, this hath occupyed wilhelmus, Lancfra<g ref="char:cmbAbbrStroke">̄</g>cus, Henri<g ref="char:EOLhyphen"/>cus de monte villa, Guido &amp; all ſurgyans of Paris.</head>
+               <p>TAke ſap of A piu<g ref="char:cmbAbbrStroke">̄</g> .ii. ounces Barly, or wheete meele .iii. ounces, that ſhall ye ſethe with a ſofte fyre, tyl it be thycke lyke a ſoft playſter, &amp; as ye do therto ſap of worm<g ref="char:EOLhyphen"/>wode, it wyll let no fyſtyll come in the wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>de, and the wou<g ref="char:cmbAbbrStroke">̄</g>de aboute frete not hymſelfe lyke the kancker, or yf the wou<g ref="char:cmbAbbrStroke">̄</g>de haue any hotenes, than ſhall ye do therto ſap of Plan<g ref="char:EOLhyphen"/>tayne, or ſap of Creſula, and ye do therto fa<g ref="char:EOLunhyphen"/>cinam, Fini greci, or Ferinam Cupinorum, that cutteth more ſtronger with dryinge, as Theodoriens and Brunus ſayeth.</p>
+            </div>
+         </div>
+         <div type="recipes">
+            <div type="recipe">
+               <head>¶The maner howe ye ſhall make ſalues, and oynte<g ref="char:EOLhyphen"/>mentes, very nedefull to all ſurgyans.</head>
+               <pb facs="tcp:11076:8"/>
+               <p>
+                  <seg rend="decorInit">A</seg>Vreum vnguentum after the Antidothario Meſue, that all freſſhe woundes fylleth with fleſſhe, and healeth.</p>
+               <p>¶Take yelowe waxe .xii. ou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ces, good oyle of olyue a pou<g ref="char:cmbAbbrStroke">̄</g>de and an half, turpentyne .iiii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, grekes pytche, whyte roſyn of eche .v. ou<g ref="char:cmbAbbrStroke">̄</g>ces, whyte Franke<g ref="char:cmbAbbrStroke">̄</g>cence, maſtycke of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, ſaffran a dragma, melte the waxe and Oyle with the Grekes pytche togyther, &amp; afterwarde do therin tur<g ref="char:EOLhyphen"/>pentyne, and ſette it then from the fyre, and make the other parſelles in powder, and do this therin at the halfe colynge, and ſtyre it than well tyll it be colde.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Auicenna ſayth vnguentum apoſtolo<g ref="char:EOLhyphen"/>cu<g ref="char:cmbAbbrStroke">̄</g> clenſeth a fyſtule, maketh it ryght good, and clenſeth all corrupt wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>des of the rotten fleſſhe without payne, &amp; maketh that the fleſ<g ref="char:EOLhyphen"/>ſhe may growe.</head>
+               <p>TAke whyte Roſyn, whyte waxe of eche an ou<g ref="char:cmbAbbrStroke">̄</g>ce, appoponati, ſpaynyſſhe grene of eche halfe an ounce, Armoniaci, maſtyk, myrte, Galbani, of eche an ounce, Ariſtologie longa, whyte Frankencence of eche an ounce and an halfe, Litargirium,
+<pb facs="tcp:11076:8"/> Bdellii .ix. dragmes. Oyle Olyue in the ſo<g ref="char:EOLhyphen"/>mer a pounde and a half, and in the wynter ii. pou<g ref="char:cmbAbbrStroke">̄</g>de: ſtepe this in vynegre .iii. dayes lon<g ref="char:EOLhyphen"/>ge, as is the galbanum, armoniacum, Bdel<g ref="char:EOLhyphen"/>lium, than ſhall you melt &amp; ſethe it, than do therin the Roſyn &amp; wax. And as it is melted than do therto the oyle &amp; Turpe<g ref="char:cmbAbbrStroke">̄</g>tyne: &amp; than do therin the other ꝓcelles made in powder.</p>
+            </div>
+            <div type="recipe">
+               <head>¶To make a whyte ſalue after the Antidothario Nicolai.</head>
+               <p>TAke whyte Leade .iiii. ounces, Litur<g ref="char:EOLhyphen"/>giriu<g ref="char:cmbAbbrStroke">̄</g> .ii. ounces, whyte Frankencence iii. dragmes, maſtyke .ii. dragmes, eche parcelles make in powder by hym ſelfe, and medle the whyte Leed with a lytel oyle, and do therto Litargiriu<g ref="char:cmbAbbrStroke">̄</g>, therafter maſtyke and Frankencence, and do ſtyre it with a peſtell oft tymes, and at eche tyme do therin a lyteſt roſe water, whan it begynneth to thicke put more oyle therto, &amp; to eche tyme a lytell roſe water, and do it ſo longe that it be nother to thycke nor to thynne.</p>
+            </div>
+            <div type="recipe">
+               <head>¶To make this whyte ſalue ſayd Raſis, &amp; called her vnguentu<g ref="char:cmbAbbrStroke">̄</g> albu<g ref="char:cmbAbbrStroke">̄</g> conferatu<g ref="char:cmbAbbrStroke">̄</g>.</head>
+               <p>TAke of oyle Olyue a pounde and a halfe, ſtampe whyte Leade a pounde, whyte waye halfe a pounde, Camphere .iii.
+<pb facs="tcp:11076:9"/> dragmes .iii. yolkes of egges. This ſhall ye ſtampe togyther in a morter, and in the leeſt do therin Camphere in powder.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Baſilicon magnu<g ref="char:cmbAbbrStroke">̄</g> Meſue ſet in his An<g ref="char:EOLhyphen"/>tidothario, &amp; is a great helper to the wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>des there hete is in, and aboue all in the woundes of the ſynewes, and doth clenſe, and cauſe to growe fleſſhe.</head>
+               <p>ANd yf you wyll make this ſalue after Meſue. Take whyte Roſyn, whyte waxe, Tallow of an oxe, blacke pyt<g ref="char:EOLhyphen"/>che, byrde lyme, Myrre, of eche .iii. ou<g ref="char:cmbAbbrStroke">̄</g>ce, oyle Olyue that there be ynoughe therof, make a ſalue as therto belongeth.</p>
+            </div>
+            <div type="recipe">
+               <head>¶This ſalue Dialthea make after the Antidothario Nicolai.</head>
+               <p>TAke hye Malowe rotes two pounde, Lynſede, Fenygreke, of eche a pou<g ref="char:cmbAbbrStroke">̄</g>de, Squelle halfe a pounde, ye ſhall waſ<g ref="char:EOLhyphen"/>ſhe it wel, then ſhal ye take the rotes of Lyn<g ref="char:EOLunhyphen"/>ſede, Fenygreke, Squelle, ſtampe it and lay it in .iiii. pounde of water .iii. dayes longe, &amp; on the .iiii. daye ſet it on the fyre, &amp; let it ſethe tyll it begynne to waxe thycke, and do it by lytell and lytell in a lynnen bagge, and as ye wyll wrynge it out, &amp; than do therto a lytell hote water, that the ſlyme well maye come
+<pb facs="tcp:11076:9"/> out, and of the ſlyme take .iii. pou<g ref="char:cmbAbbrStroke">̄</g>de. And do therto, oyle olyue .iiii. pounde, than let it ſeth tyll the ſlyme conſumeth, than do therin wa<g ref="char:EOLhyphen"/>xe a pounde, and as that is melted do therin Turpentyne, Galbanum, Gumi edere, of eche .iiii ounces. In the leeſt do therin Gre<g ref="char:EOLhyphen"/>ſtes pytche, or Colofonie in latyn, Roſyn, of eche a pounde. And whan it waxeth colde, than do it lyghtly out.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Vnguentum defenſiuu<g ref="char:cmbAbbrStroke">̄</g>, &amp; repercuſſiuum, occupyeth co<g ref="char:cmbAbbrStroke">̄</g>menly all mayſters to all wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>des &amp; bones, and impoſtumacions it reſtray<g ref="char:EOLhyphen"/>neth &amp; defendeth that no ſwerynge nor ſwel<g ref="char:EOLunhyphen"/>lynge, nor impoſtume co<g ref="char:cmbAbbrStroke">̄</g>meth to woun<g ref="char:EOLhyphen"/>des or fracturs of y<hi rend="sup">e</hi> bones, as the me<g ref="char:cmbAbbrStroke">̄</g>bre be anoynted therwith rou<g ref="char:cmbAbbrStroke">̄</g>de aboute.</head>
+               <p>TAke Roſe oyle .iiii. ounces, Bolus at menus .ii. ounces. Tarra ſigillata, vy<g ref="char:EOLunhyphen"/>negre, of eche an ou<g ref="char:cmbAbbrStroke">̄</g>ce, Camfere a drag<g ref="char:EOLunhyphen"/>me, Nyghtſhawe, or Solatrum in latyn, Howſlyke, of eche an handefull and ſtampe it and threſt well out the ſappe, and myngle it togyther colde lyke a whyte ſalue.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Vnguentu<g ref="char:cmbAbbrStroke">̄</g> egipciacu<g ref="char:cmbAbbrStroke">̄</g>, lerneth Galenus, Raſis Albucaſis, &amp; is ſore occupyed now in this tyme of the ſurgyans, it clenſeth ſoftly &amp; taketh away all vncle<g ref="char:cmbAbbrStroke">̄</g>nes.</head>
+               <pb facs="tcp:11076:10"/>
+               <p>TAke Ho<g ref="char:cmbAbbrStroke">̄</g>ny a pou<g ref="char:cmbAbbrStroke">̄</g>de, Vynegre halfe a pounde, Spanyſſhe grene .ii. ounces, Alume an ounce. This ſhall you ſeth all togyther on the fyre tyll it be reed. And this ſalue taketh thre maners of coloures in his ſethynge, yf it is ſoden but a lytell, it ſe<g ref="char:EOLhyphen"/>meth grene, is it ſoden well it ſemeth reed, is it ſoden to moche than it ſemeth blacke.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Vnguentum fuſcum doth fleſſhe to growe, &amp; clenſeth and heleth.</head>
+               <p>ALſo take oyle Olyue a pounde, &amp; .iiii. ou<g ref="char:cmbAbbrStroke">̄</g>ces waxe .viii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, Grekes pyt<g ref="char:EOLhyphen"/>che, Shyp pytche, whyte Roſyn of eche .iiii. ounces, Maſtyke, Galbanum, whyte Fran<g ref="char:EOLunhyphen"/>kencence Turpentyne, Myrra, of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ces, Appoponatum, Armoniacum, of eche an ounce, melt the Oyle and the waxe in a pa<g ref="char:cmbAbbrStroke">̄</g>ne. And then put therin the Shyp pytche and the Grekes pytche, and whan it is mol<g ref="char:EOLunhyphen"/>ten ſtrayne it throughe a cloth, and ſtepe the Gu<g ref="char:cmbAbbrStroke">̄</g>mes in vynegre and ſoften them ſo, and ſtrayne it throughe a cloth, and put it therin and at the laſt put therin the other gu<g ref="char:cmbAbbrStroke">̄</g>mes in powder, and the Turpentyne, and ſtyrre it togyther tyll it be colde.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Now a dayes the Barbours maketh con<g ref="char:EOLunhyphen"/>trary Vnguentum Popule on Nicolai, and
+<pb facs="tcp:11076:10"/> otherwyſe then it ſhuld be, for ſomtyme they put butter, ſomtyme herbes that heleth, and they lay the ſalue with lynt in the wounde, and that is contrary vnto the powder of the Populer ſalue, for y<hi rend="sup">e</hi> nature of them is for to cole, and to take the payne awaye, therfore it ought not to be made none otherwyſe than is here<g ref="char:EOLhyphen"/>after folowynge.</head>
+               <p>TAke Populer buddes a pou<g ref="char:cmbAbbrStroke">̄</g>de and an halfe, Hogges grece .iiii. pounde, and ſtampe them togyther, and let it ſtande tyll ye may haue theſe herbes herafter folowyn<g ref="char:EOLhyphen"/>ge. Folia Papaueris nigri, Bramble leues of the fyrſte buddyng, Dolerote leues, or fo<g ref="char:EOLhyphen"/>lia de Vua verſa, Bilſem leues, or folia Iuſ<g ref="char:EOLhyphen"/>quiani, Nyghtſhawe leues, or folia Sola<g ref="char:EOLhyphen"/>tri, folia de Satirion, Muerpepper leues, or Craſſula in latyn, Letuſe leues, Vyolette fe<g ref="char:EOLhyphen"/>ues, Houſeleke, great Burre leues, or Lapa<g ref="char:EOLhyphen"/>tium in latyn, Grounſwel leues, of eche .vi. ounces. And ſtampe theſe herbes togyther with Hogges grece, and with the buddes of Populen, and let it ſtande the ſpace of .viii. dayes, and than put therto wyne .iii. pou<g ref="char:cmbAbbrStroke">̄</g>de. Than ſeth it in a kettell tyl the wyne be ſod<g ref="char:EOLhyphen"/>den away, &amp; than ſtrayne it through a cloth.</p>
+            </div>
+            <div type="recipe">
+               <pb facs="tcp:11076:11"/>
+               <head>¶For to make a ſalue that cauſeth in all complections fleſſhe to growe in freſſhe woundes.</head>
+               <p>TAke whyte fra<g ref="char:cmbAbbrStroke">̄</g>ke<g ref="char:cmbAbbrStroke">̄</g>cence, maſtyke, aloe paticu<g ref="char:cmbAbbrStroke">̄</g>, Grekes pytche, Ariſtologia aduſta, yreos, ſarcocolle: of eche alyke moche and therof make a ſalue with oyle &amp; wax.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A ſalue that cauſeth fleſſhe to growe in the woundes of yonge perſones.</head>
+               <p>ANd yf ye wyll make this ſame ſalue, Take Turpentyne which is not waſ<g ref="char:EOLhyphen"/>ſhed .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, Roſe ho<g ref="char:cmbAbbrStroke">̄</g>ny a dragma, the yolke of an egge, oyle Olyue, &amp; waxe, and loke that there he ſtuffe ynoughe, and than ye ſhall make therof a ſalue.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A ſalue that clenſeth the woundes of yonge chyldren, and cauſeth the fleſſhe to growe.</head>
+               <p>TAke whyte Turpentyne, whiche is not waſſhed .iiii. ou<g ref="char:cmbAbbrStroke">̄</g>ces. The yolke of an egge, and a lytell Barlye meele, and make therof a ſalue.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A ſalue that clenſeth and cauſeth the fleſſhe to growe in drye complections.</head>
+               <p>YF ye wyll make this ſalue, taſte ſhyp pytche well waſſhed in good lye .vi.
+<pb facs="tcp:11076:11"/> ou<g ref="char:cmbAbbrStroke">̄</g>ces, reed ho<g ref="char:cmbAbbrStroke">̄</g>ny .ii. ounces, ſpanyſſhe grene halfe a dragma, The yolke of an egge, bar<g ref="char:EOLhyphen"/>lye meele ynoughe, and make therof a ſalue.</p>
+            </div>
+            <div type="recipe">
+               <head>¶An other ſalue that cauſeth the fleſſhe to growe in all ma<g ref="char:EOLhyphen"/>ner of freſſhe woundres.</head>
+               <p>TAke Turpentyne .iiii. ounces, Ho<g ref="char:cmbAbbrStroke">̄</g>ny halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce, powder of the barke of whyte Franke<g ref="char:cmbAbbrStroke">̄</g>cence a dragma, Saffran the thyrde parte of a dragma, &amp; take ynoughe of oyle of roſes &amp; waxe, &amp; make therof a ſalue.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A ſalue which clenſeth the matter, and cauſeth fleſſhe to growe.</head>
+               <p>FOr to make this ſalue: take Turpen<g ref="char:EOLhyphen"/>tyne, ho<g ref="char:cmbAbbrStroke">̄</g>ny of Roſes ſtrayned, of eche iiii. ounce. Myrre, Sarcocolle, of eche iii. dragmes, Barly mele an ou<g ref="char:cmbAbbrStroke">̄</g>ce. The yolke of an egge, and halfe a dragma of Saffran. And medle them togyther: and ſette it on the fyre and ſtyre it well, and when y<hi rend="sup">t</hi> it is luke warme, put therto the yolke of an egge.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A ſalue that cauſeth the wounde to gyue matter.</head>
+               <p>FOr to make this ſalue, take Turpen<g ref="char:EOLhyphen"/>tyne .iii. ounces, Hartes grece, or the mary of an harte .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, oyle of Ro<g ref="char:EOLhyphen"/>ſes an ou<g ref="char:cmbAbbrStroke">̄</g>ce, whyte fra<g ref="char:cmbAbbrStroke">̄</g>kence<g ref="char:cmbAbbrStroke">̄</g>ce half an ou<g ref="char:cmbAbbrStroke">̄</g>ce.</p>
+            </div>
+            <div type="recipe">
+               <pb facs="tcp:11076:12"/>
+               <head>¶A ſalue that cauſeth matter to come in freſſhe woundes ſhortly after it is layde therin.</head>
+               <p>YF ye wyl make this take Turpentyn iiii. ounces, oyle of Roſes, and waxe, of eche .ii. ounces. Melte theſe togyther, and as ye wyll occupy it, make it a lytell warme and lay it with lynt vpon the wounde, and it wyll ſoone gyue matter.</p>
+            </div>
+            <div type="recipe">
+               <head>¶An other ſalue for a freſſhe wounde that maketh matter.</head>
+               <p>TO make this ſalue take Hartes grece, Turpentyne, of eche .iiii. ounces, oyle of Roſes, whyte Frankencence, Maſtycke, of eche an ounce.</p>
+            </div>
+            <div type="recipe">
+               <head>¶To make a ſalue for a membre y<hi rend="sup">t</hi> hath ben out of the ioynte, or that hath ben wounded, &amp; after the helynge the ioynte can not be bowed.</head>
+               <p>LAnfrancus hath taken this ſalue out of the boke of Raſis, but he hath amen<g ref="char:EOLunhyphen"/>ded it. And he toke olde ſwynes grece .vi. ou<g ref="char:cmbAbbrStroke">̄</g>ces, Duckes grece, Gooſe grece, Hen<g ref="char:EOLhyphen"/>nes grece, of eche .ii. ounces, olde oyle Olyue viii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, fenygreke mele, fynſede mele, of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, bdellii, oppoponati, maſtycke, Frankencence of eche an ounce. The gum<g ref="char:EOLhyphen"/>mes
+<pb facs="tcp:11076:12"/> ye ſhall wete in wyne, and afterwarde ye ſhall medle it with oyle &amp; grece. And put therto a lytell waxe and Turpentyne, and than put therin the other harde gu<g ref="char:cmbAbbrStroke">̄</g>mes made in powder, &amp; ſtyre it togyther tyll it be colde</p>
+            </div>
+         </div>
+         <div type="recipes">
+            <head>¶Hereafter fo<g ref="char:EOLhyphen"/>loweth the maner to make pow<g ref="char:EOLhyphen"/>ders neceſſary for ſurgyans.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Reed powder that dryeth ſore and maketh that none euyll fleſſhe growe in the wounde. ¶Take the mother of Perle, Burnet, Pompolix, Litargi<g ref="char:EOLhyphen"/>riu<g ref="char:cmbAbbrStroke">̄</g>, Bolus armenus, Terra ſigillata, Dra<g ref="char:EOLhyphen"/>gons blode, Erugo eris of eche an ou<g ref="char:cmbAbbrStroke">̄</g>ce, Ca<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>fere a dragma. And ſtampe theym togyther, and make a fayre powder.</p>
+            <div type="recipe">
+               <head>¶For to make a reed powder for all woundes, and fyſtules clenſyn<g ref="char:EOLhyphen"/>ge from euyll fleſſhe, good for wou<g ref="char:cmbAbbrStroke">̄</g>des of the heed.</head>
+               <p>TAke Grekes pytche .iii. ounces, walte rotes, or Ambora in latyn, Ematicis, Mumie, Dragons blode, of eche an ounce,
+<pb facs="tcp:11076:13"/> Maſtyk, whyte Frankencence of eche halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce. And make therof a powder, and ye maye occupye this powder without harme, thoughe the brayne lye bare, this powder ye ſhall ſtrawe vpon lynte depte in wyne, and laye that therupon.</p>
+            </div>
+            <div type="recipe">
+               <head>¶And yf you wyll make a reed powder to ſtoppe blode, and in the wounde maketh fleſſhe to growe.</head>
+               <p>TAke drago<g ref="char:cmbAbbrStroke">̄</g>s blode, white fra<g ref="char:cmbAbbrStroke">̄</g>kence<g ref="char:cmbAbbrStroke">̄</g>ce, A loe paticu<g ref="char:cmbAbbrStroke">̄</g>, ſarco colle of eche an ou<g ref="char:cmbAbbrStroke">̄</g>ce preos half an ou<g ref="char:cmbAbbrStroke">̄</g>ce, &amp; make therof a powder.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A ſofte powder whiche taketh out of the wounde, the ſuperfluyte of euyll fleſſhe, as Canfran<g ref="char:EOLhyphen"/>cus ſayeth.</head>
+               <p>ANd yf ye wyſ make the ſame powder. Take Hermadacteli, Ariſtologia ro<g ref="char:EOLhyphen"/>tunda, of eche an ounce, Spanyſſhe grene halfe an ounce, and make therof a powder. ¶A reed powder which is profytable to the ſeme of the wounde, and holdeth the lyppes faſt togyther and ſtoppeth the blode, and hea<g ref="char:EOLunhyphen"/>leth the wounde (as Albucaſis and Lanfra<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cus writteth) but for y<hi rend="sup">e</hi> vnflecked lyme. Guy<g ref="char:EOLhyphen"/>do taketh ſo moche Boſus armenus, And Haly abbas taketh ſo moche Sandali. And
+<pb facs="tcp:11076:13"/> I take ſo moche lyme of egge ſhelles that is waſſhed and dryed agayne.</p>
+            </div>
+            <div type="recipe">
+               <p>TAke whyte Frankencence .ii. ounces, Dragons blode, and vnſlecked lyme, of eche an ounce (and Guydo ſayeth) Take for the lyme Boſus arinenne an ou<g ref="char:cmbAbbrStroke">̄</g>ce And Haly abbas ſayeth, take Sandaſy an ounce. And after my lernynge take an ou<g ref="char:cmbAbbrStroke">̄</g>ce of the lyme of egge ſhelles, and therof make a powder.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Wilhelmus de Saliceth maketh ano<g ref="char:EOLhyphen"/>ther powder to lay on the ſame that is very good, and y<hi rend="sup">t</hi> lyketh me well.</head>
+               <p>ANd yf you wyll make the ſame pow<g ref="char:EOLhyphen"/>der ſo: take Dragons blode, Dragaga<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>tum, Gu<g ref="char:cmbAbbrStroke">̄</g>mi arabici, of eche an ounce, And therof make a powder.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A proued powder, for ſtoppyng of blo<g ref="char:EOLhyphen"/>de that the Lombardes ſurgyans occu<g ref="char:EOLhyphen"/>pyeth, &amp; this powder ſtoppeth the blode, and heleth alſo.</head>
+               <p>FOr to make the ſame powder take Dra<g ref="char:EOLunhyphen"/>gone blode, Bolus armenus, Terre ſi<g ref="char:EOLunhyphen"/>gillate, of eche an ounce, Pſidie, Pomegar<g ref="char:EOLhyphen"/>nade flowers, Accacia ipoquiſcidos, Cipreſ<g ref="char:EOLunhyphen"/>ſe nottes of eche an ou<g ref="char:cmbAbbrStroke">̄</g>ce, Numye, maſtyke, Frankence<g ref="char:cmbAbbrStroke">̄</g>ce with the barke of eche .ii. drag<g ref="char:EOLunhyphen"/>mes,
+<pb facs="tcp:11076:14"/> Ma<g ref="char:cmbAbbrStroke">̄</g>nes blode brent an ou<g ref="char:cmbAbbrStroke">̄</g>ce, wattꝭ here brent .iii. dragmes &amp; make therof a powder</p>
+            </div>
+            <div type="recipe">
+               <head>¶For to make a powder, whiche ſtoppeth blode.</head>
+               <p>TAke Cathapladis, Egge ſhells y<hi rend="sup">t</hi> the Chekyns be come out of or moſſe gro<g ref="char:EOLunhyphen"/>wyng vpon deed me<g ref="char:cmbAbbrStroke">̄</g>nes hedes, or gra<g ref="char:EOLunhyphen"/>ues in y<hi rend="sup">e</hi> churche yarde, ſmal bre<g ref="char:cmbAbbrStroke">̄</g>ni<g ref="char:cmbAbbrStroke">̄</g>g Nettyls of eche alyke moch dryed, &amp; made in pouder</p>
+            </div>
+            <div type="recipe">
+               <head>¶A powder that dryeth, heleth, and ma<g ref="char:EOLhyphen"/>keth ſkyn, &amp; reſtrayneth the matter.</head>
+               <p>FOr to make this powder, take Aloe paticum, Sarcocolle, of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces Dragons blode, the barke of Fran<g ref="char:EOLhyphen"/>kencence, rounde holle rotes, or Ariſtologia rotunda in latyn, Caſmey preparati, yee of our lady of eche halfe an ounce, Pomegar<g ref="char:EOLunhyphen"/>nade flowres, Balauſtie, Pſidii, Tutie pre<g ref="char:EOLunhyphen"/>parate, Erugo eris, Cipreſſe nottes, of eche a dragma, Lynen cloth burned, halfe a drag<g ref="char:EOLunhyphen"/>ma, &amp; make all theſe togyther in a powder.</p>
+            </div>
+         </div>
+         <div type="recipes">
+            <head>¶Hereafter fo<g ref="char:EOLhyphen"/>loweth the maner for to make Oyles, whiche be nedefull to the Surgyans.</head>
+            <div type="recipe">
+               <pb facs="tcp:11076:14"/>
+               <p>OLium Camomille is nedefull vnto the Surgyan, for it reſoſueth the matter, and alſo it taſteth away the payne.</p>
+               <p>¶And for to make the ſame oyle, take Ca<g ref="char:EOLhyphen"/>mamell flowers in the moneth of Iune a pou<g ref="char:cmbAbbrStroke">̄</g>de, oyle Olyue ſtrayned .iii. pou<g ref="char:cmbAbbrStroke">̄</g>de. And put theym togyther in a glaſſe, &amp; ſet it in the So<g ref="char:cmbAbbrStroke">̄</g>ne .xiiii. dayes, than ſtrayne it, and put therin agayne a pou<g ref="char:cmbAbbrStroke">̄</g>de of freſſhe Camamell flowers, and ſet it agayne in the So<g ref="char:cmbAbbrStroke">̄</g>ne .xl. of y<hi rend="sup">e</hi> diſmol dayes &amp; than ſtrayne it agayne. ¶Oleum benedictum, that is the beſt Oyle to warme the colde me<g ref="char:cmbAbbrStroke">̄</g>bres, wherin the ma<g ref="char:EOLhyphen"/>ry is become colde within the bone, and this oyle ſtoppeth the glytterynge water and he<g ref="char:EOLhyphen"/>teth freſſhe wou<g ref="char:cmbAbbrStroke">̄</g>des, the fiſtules, the cankers and dryeth the rennynge ſores, &amp; thus with great dyfygence, and good vnderſtandynge ye muſt make this oyle.</p>
+            </div>
+            <div type="recipe">
+               <p>TAke oyle Olyue a pounde, Turpen<g ref="char:EOLhyphen"/>tyne, oyle Laure of eche halfe a poun<g ref="char:EOLhyphen"/>de, Synamon .iii. ounces, Clowes .ii. ounces, Euforbii, Galbani, Baye leues, go<g ref="char:cmbAbbrStroke">̄</g>mi edere, armoniaci, appoponati of eche an ounce, Laudani .viii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, whyte fran<g ref="char:EOLhyphen"/>kencence, Caſtorie, Spicinardi, Lignum a ſoes, of eche halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce. Make all this in
+<pb facs="tcp:11076:15"/> powder, and melte the other, and put therto freſſhe tyle ſtones ſtamped in powder bren<g ref="char:EOLhyphen"/>nynge hote a pounde, dyſtyle it per alembi<g ref="char:EOLhyphen"/>cum, and ſo it wyll gyue or yelde .iii. maner of lycoures. The fyrſte it gyueth water, the ſeconde tyme it gyueth oyle, and the thyrde tyme it gyueth lycoure, lyke a bawme, and kepe eche of them by hymſelfe.</p>
+            </div>
+            <div type="recipe">
+               <head>¶The moſte beſt bawme artyfy<g ref="char:EOLhyphen"/>cyal to ſerue to all freſſhe wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>des ſhall be made thus.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Ake Lignum aloes .ii. ounces, Oppoponatu<g ref="char:cmbAbbrStroke">̄</g>, Refini de pino, Bdellii, Galbani, Armonia<g ref="char:EOLhyphen"/>ci, Maſticis, Sarcocolle, Go<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mi, Elempi, Olibani, Myrte, Benſium, Olium lauri, Olium benedictu<g ref="char:cmbAbbrStroke">̄</g>, Laudani of eche .iii. ounces, Carpobalſami, Xilobalſami, appobalſami, in his place may be taken Olium balſami, of eche an ounce, Sanguinis draconis halfe an ounce, Caſto<g ref="char:EOLunhyphen"/>rii, Spicinardi, Galga<g ref="char:cmbAbbrStroke">̄</g>ti, Cubebe, Maces, Sinamomi, Cardemumel, Grane paradiſi Corticis cyrci, of eche a dragma, Olu turpe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>tini, as moche in wayght as of all the other aforeſayde, &amp; dyſtyll it peralembicum. This
+<pb facs="tcp:11076:15"/> bawme heleth freſſhe wou<g ref="char:cmbAbbrStroke">̄</g>des, and ſtoppeth ſhortely the glytterynge water in the ioyn<g ref="char:EOLhyphen"/>tes, yf it be well made.</p>
+            </div>
+            <div type="recipe">
+               <head>¶An other very good bawme, whiche ſerueth for all maner of freſ<g ref="char:EOLhyphen"/>ſhe woundes.</head>
+               <p>TO make this bawme, take Olibant, Armoniaci, Storacis calimite, Sto<g ref="char:EOLhyphen"/>tacis liquide, of eche .iiii. ounces, Maſticis, Coloſonie, Dragaganti, Gommiarabici, Eo<g ref="char:cmbAbbrStroke">̄</g>mibdellii, Go<g ref="char:cmbAbbrStroke">̄</g>mi elempi, of eche .ii. oun<g ref="char:EOLhyphen"/>ces, Myrre, Euforbii, of eche halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce, Eommi edere, Serapini, Go<g ref="char:cmbAbbrStroke">̄</g>mi ficuum, Oppoponati, Benſium which is Go<g ref="char:cmbAbbrStroke">̄</g>mi ce<g ref="char:EOLhyphen"/>dri, Viſci querci, Gumi, &amp; not the tre, San<g ref="char:EOLhyphen"/>guinis draconis, Aloepatici, Mumie, Xilo<g ref="char:EOLhyphen"/>balſami, Carpobalſami, Boracis, Verticis, of eche an ounce, laudani mu<g ref="char:cmbAbbrStroke">̄</g>dati .iii. ou<g ref="char:cmbAbbrStroke">̄</g>ces. Olii roſarum .ii. pounde, Olii laurini, Tur<g ref="char:EOLunhyphen"/>pentini rubii, of eche a pou<g ref="char:cmbAbbrStroke">̄</g>de, Olii maſticis oyle of Camamyll, of eche halfe a pounde, And of the foreſayd bawme, Ieneper oyle, Bramble oyle, oyle of vyolettꝭ, of eche .viii. ounces, The ſoft go<g ref="char:cmbAbbrStroke">̄</g>mes wette in vynegee. And the other make theym in powder, than ſhall you ſeth this all togyther in Balneum marie, &amp; as you ſe that the go<g ref="char:cmbAbbrStroke">̄</g>mes wyll ſyt
+<pb facs="tcp:11076:16"/> on the grounde of the glaſſe, than it is ſoden ynoughe, and yf you wyll haue the naturall colour of the bawme, ye ſhal put therin hal<g ref="char:EOLhyphen"/>fe an ounce of Saffran of oryent ſtamped, for that cauſeth y<hi rend="sup">e</hi> fleſſhe to growe. Alſo yf ye wyll haue it ſeme fayre &amp; grene, than put therin ſpanyſſhe grenl .iii. ounces grounden ſmall. And at the laſte put therin the Tur<g ref="char:EOLhyphen"/>pentyne, and oleum Turpentini.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Oyle of Caſtory the whiche is moche profytable and nedefull for a ſurgyan.</head>
+               <p>TAke oyle Oſyne .vii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, Caſtory, iii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, ye ſhal put all theſe togyther in a potte and ſeth it in Balneum marie .iii. houres longe, &amp; than kepe it well in a glaſſe.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Oyle of Lylyes is alſo neceſſarye for the Surgyan.</head>
+               <p>ANd yf ye wyll make y<hi rend="sup">e</hi> oyle of lylyes. Take oyle Olyue .v. pounde, whyte Lyly leues a pounde, Roſe leues halfe a pou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>de, Maſtyke .iiii. ounces, Saffran .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces. And the Maſtycke muſte be made in pow<g ref="char:EOLhyphen"/>der put them all togyther in a glaſſe, and ſet it in the ſo<g ref="char:cmbAbbrStroke">̄</g>ne the ſpace of .ix. dayes, and on the .x. day ye ſhall ſethe it in Balneu<g ref="char:cmbAbbrStroke">̄</g> marie,
+<pb facs="tcp:11076:16"/> and than ſtrayne it, or els take oyle Olyue .xii. ounces, whyte Lylye leues .iiii. ounces, and make it as is aforeſayde.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Olyum maſticis muſt be made thus.</head>
+               <p>TAke Maſtyke .vi. ou<g ref="char:cmbAbbrStroke">̄</g>ces. Oleum ſiſa<g ref="char:EOLunhyphen"/>mini .xviii. ounces. And ye ſhall ſeth them in Balneum marie ſo longe tyll the thyrde parte be conſumed. Or els make it thus, take oyle of Roſes .xxiiii. ounces, Maſtyke .vi. ounces well ſmellynge halfe a pounde, and ſeth them in Balneum marie tyll the wyne be conſumed.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Oleum Nenufarie.</head>
+               <p>¶This oyle is to the Surgyans moſte pre<g ref="char:EOLunhyphen"/>fytable, for it coleth the perſones, &amp; it muſt be made in lykewyſe, as the oyle of Camo<g ref="char:EOLhyphen"/>myll is. And in the ſtede of Camamyll, take whyte ſee flowres, whiche herbe hath brode leues ſwymmynge vpon the water, and it is called flores Nenufaris in latyn.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Oyle of Roſes without whiche oyle no ſurgyan maye be, and it muſt be made in this maner as here<g ref="char:EOLhyphen"/>after foloweth.</head>
+               <p>TAke the ſap of duſt, or Origani in la<g ref="char:EOLhyphen"/>tyn, &amp; water that Roſes be ſoden in,
+<pb facs="tcp:11076:17"/> of eche a pou<g ref="char:cmbAbbrStroke">̄</g>de, oleum ſiſamini waſſhed, or take oyle Olyue the greneſt that ye can get .iii. pou<g ref="char:cmbAbbrStroke">̄</g>de. Leues of Roſes a pou<g ref="char:cmbAbbrStroke">̄</g>de, and put them together in a glaſſe, &amp; ſet it in the ſo<g ref="char:cmbAbbrStroke">̄</g>ne the ſpace of .xiiii. dayes, than ſhall ye ſeth it in Balneum marie tyll the ſap and the wa<g ref="char:EOLhyphen"/>ter be conſumed, and than afterwarde ſtray<g ref="char:EOLhyphen"/>ne it, and put therin agayne as moch water of Roſes and ſap as is before reherſed, and ſette it agayne in the ſo<g ref="char:cmbAbbrStroke">̄</g>ne other .xiiii. dayes, and than ſeth it agayne in Balneum marie as is before ſayde, than ſtrayne it and ſette it in the ſo<g ref="char:cmbAbbrStroke">̄</g>ne, agayne, and let it ſtande there the ſpace of .xl. dayes.</p>
+            </div>
+            <div type="recipe">
+               <head>¶Oyle of elder, or oyle of Vygelet, or any other oyles made of flowree, they muſt be made thus, as herhafter foloweth.</head>
+               <p>TAke the flowers, or the herbes a poun<g ref="char:EOLunhyphen"/>de, oyle olyue .iii. pounde. And put it in a glaſſe, and ſet it in the So<g ref="char:cmbAbbrStroke">̄</g>ne the ſpace of .xl. dayes, than ye ſhall ſeth it in Balne<g ref="char:EOLhyphen"/>um marie, and than ſtrayne it and threſt it out, and the oyle of Elder ſhal ſtande in the ſo<g ref="char:cmbAbbrStroke">̄</g>ne but .iii. deyes, or els it wyll be corrupte.</p>
+            </div>
+         </div>
+         <div type="recipes">
+            <pb facs="tcp:11076:17"/>
+            <head>¶Hereafter fo<g ref="char:EOLhyphen"/>loweth the maner for to make a drynke for all woundes, and it is nedefull for a Surgyan.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Drynke for all woundes and as a ꝑſone is ſtryken through the body, whiche Drynke hel<g ref="char:EOLhyphen"/>peth hym inwardly without powder or other thyng, neuer theles it is good to lay on the wou<g ref="char:cmbAbbrStroke">̄</g>de a grene wounded playſter, for it clenſeth the wou<g ref="char:cmbAbbrStroke">̄</g>de and this drynke ſhall be made thus.</p>
+            <p>TAke yue leues or Edere arboria grow<g ref="char:EOLunhyphen"/>ynge on an oken tree .iiii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, wyn<g ref="char:EOLhyphen"/>ter grene ſmall and great or Pirola in tatyn, Sanycle or Diapenſia in latyn, ſyn<g ref="char:EOLhyphen"/>dawe, herba Fortis, or Veronica, of eche .ii. ounces, herba Solſequiian ounce, chope all theſe herbes ſmal togyther and put them in a pewter pot, and put therto .iiii. pounde and an halfe of the beſt wyne, &amp; a pounde and an halfe of water, &amp; ye ſhall fethe them in Bal<g ref="char:EOLhyphen"/>neu<g ref="char:cmbAbbrStroke">̄</g> marie .iiii. houres longe without takyn<g ref="char:EOLhyphen"/>ge
+<pb facs="tcp:11076:18"/> of the lyd of the pot, than on the morowe after put therto .viii. ou<g ref="char:cmbAbbrStroke">̄</g>ces of Suger. If the wounde be in the heade, than put therto Be<g ref="char:EOLhyphen"/>ton ye .ii. ounces, Sage an ounce, Lafendell halfe an ounce. And yf the wounde be in the breſte, than put therto Lycores .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces. Po<g ref="char:EOLhyphen"/>lipodium an ounce, yſope halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce, and yf the pacyent feble ſore, than put therto bu<g ref="char:EOLhyphen"/>gloſſe floures, borage floures of eche an ou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ce. Roſes halfe an ounce, than yf the pacyent haue great here put therto Vyolettes .ii. oun<g ref="char:EOLhyphen"/>ces. Flores nenufaris halfe an ounce, yf the wounde be on the lefte ſyde, than do therto Lyuerworte an ounce. Matriſilua halfe an ou<g ref="char:cmbAbbrStroke">̄</g>ce, alſo yf ye haue no goyng to y<hi rend="sup">e</hi> drought than it is nedefull to put therto Sene leues, Caſſie fiſtule, of eche .ii. ounces. And yf he be depe wou<g ref="char:cmbAbbrStroke">̄</g>ded, than put therto Celidoni rotꝭ .iiii. ounces, &amp; gyue it hym to drynke at mor<g ref="char:EOLhyphen"/>nynge, at none, and at euenynge, &amp; at euery tyme .iiii. ounces.</p>
+            <div type="recipe">
+               <head>¶An other good drynke for a wounde which is of truth &amp; hath ben proued.</head>
+               <p>THis drynke is gyuen for the wounde that is not deedly, and dryueth out of the wounde all corrupcyons within .xiii. dayes, &amp; afterwarde it heleth the wou<g ref="char:cmbAbbrStroke">̄</g>de.
+<pb facs="tcp:11076:18"/> And thus this drynke muſt be made. Take reed Coles, Parſely ſede, Abrotanum, Ta<g ref="char:EOLhyphen"/>naſetum, Strawbery leues, leues of Rube<g ref="char:EOLhyphen"/>tinctorum, herba Tuberti, Plantayne great and ſmall, Appe leues, or folia apii, Hempe ſede, and ſeth all thefe togyder in wyne, and put therto a lytellhu<g ref="char:cmbAbbrStroke">̄</g>ny, and therof ſhall the pacyent drynke euenynge &amp; mornyng, and at euery tyme .iiii. ounces, &amp; waſſhe the wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>de therwith, &amp; lay a reed cole left therupon.</p>
+            </div>
+            <div type="recipe">
+               <head>¶An other drynke that is good for a wounde.</head>
+               <p>TAke Pimpinella, Sanicle, or Diare<g ref="char:EOLhyphen"/>nia in latyn, walte rote, or ambroſia, Agrimonia, yſop, tanaſcetum great, Plantayne, Strawberye leues, of eche an handefull, and ſeth them in wyne, or in wa<g ref="char:EOLhyphen"/>ter, &amp; put therto a lytel vyneger &amp; hu<g ref="char:cmbAbbrStroke">̄</g>ny, this Drynke cureth, or healeth the wounde by hymſelfe.</p>
+            </div>
+            <div type="recipe">
+               <head>¶An other drynke for a wounde.</head>
+               <p>TAke herba Saraſenica, fyndaw, Dia<g ref="char:EOLunhyphen"/>rentia, of eche .xii. ounces, wynter gre<g ref="char:EOLhyphen"/>ne, or Pirola in latyn, Strawbery le<g ref="char:EOLhyphen"/>ues of eche .vi. ou<g ref="char:cmbAbbrStroke">̄</g>ces, Centimorbium, Agri<g ref="char:EOLhyphen"/>monia,
+<pb facs="tcp:11076:19"/> Betonica, reed motherwort, or Arti<g ref="char:EOLunhyphen"/>muſia rubea of eche .iiii. ounces, Ambroſia, Pimpinella, Repontica, Grou<g ref="char:cmbAbbrStroke">̄</g>de wormes, yarowe, or Milefolium, of eche .iiii. ounces, Mumic powder .iiii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, clere hu<g ref="char:cmbAbbrStroke">̄</g>ny a pou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>de and an halfe, and take therto .vi. pou<g ref="char:cmbAbbrStroke">̄</g>de of good whyte wyne, and chop ſmall theſe fore<g ref="char:EOLunhyphen"/>ſaid herbes, than myngle them with the wy<g ref="char:EOLhyphen"/>ne and hu<g ref="char:cmbAbbrStroke">̄</g>ny, and put it into a great pot and couer it with a lydde of tre, and cloſe the pot with clay, and make aboue in the lyd a lytell hole that it maye haue ayre out, and it ſhall ſethe tyll the thyrde parte be conſumed, and than gyue the pacyent therof to drynke at mornynge, and at euenynge a ſponfull, and it ſhall hele hym, this drynke ye ſhall kepe in a pewter pot, or in a cloſe veſſell.</p>
+            </div>
+            <div type="recipe">
+               <head>¶A drynke that dryueth out the engyled blode throughe the vryne.</head>
+               <p>TAke Syndawe, Fenell, ſmall Sau<g ref="char:EOLhyphen"/>ge, Perſely of eche an handeful, yſop, Fenel ſede, Annes ſede, the rote of Mandra<g ref="char:EOLunhyphen"/>gora of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces. And ye ſhall ſeth them togyther in .ii. pounde of water, &amp; gyue the pacyent therof to drynke.</p>
+            </div>
+            <div type="recipe">
+               <pb facs="tcp:11076:19"/>
+               <head>¶An other drynke for the ſame.</head>
+               <p>TAke Celidonia, Permacete, Stercus de muris, and make therof a powder, take the rote of great Taſyl, &amp; ſmal Sauge leues, of eche an handefull, &amp; ſeth it in good whyte wyne tyll the thyrde parte be conſu<g ref="char:EOLhyphen"/>med, than take a lytell glaſſe full of the ſa<g ref="char:EOLhyphen"/>me drynke, and take of the foreſayd powder to the quantyte of .iii. Haſyll nuttes &amp; medle them togyther, &amp; yf ye wyl haue it ſtronger, take Charuell water, Cycoria water of eche two ou<g ref="char:cmbAbbrStroke">̄</g>ces, Stercus de muris a lytell medle it all togyther, &amp; gyue the pacye<g ref="char:cmbAbbrStroke">̄</g>t to drynke.</p>
+            </div>
+            <div type="recipe">
+               <head>¶An other coſtly drynke, for a wounde.</head>
+               <p>TAke wynter grene, or pirola, ſyndaw Matriſilua, muſore, water creſſes, or Genacium in latyn, Brunella, ſmall plan<g ref="char:EOLhyphen"/>ten, of eche an handefull, herba Grace, mo<g ref="char:EOLhyphen"/>therworte, Celidonia, of eche .ii. handefull, herba Saraſenica an handefull &amp; an halfe, Sanycle, or Diarentia in latyn, Herba tu<g ref="char:EOLhyphen"/>nici of eche an handeful, ſmall Sauge halfe an handful, Serpe<g ref="char:cmbAbbrStroke">̄</g>tina with diptan or Dip<g ref="char:EOLunhyphen"/>tanum album in latyn, of eche .ii. ou<g ref="char:cmbAbbrStroke">̄</g>ces, Ca<g ref="char:EOLhyphen"/>ſtorie, Mumie, reed Myrre, wormwode, or
+<pb facs="tcp:11076:20"/> Abſintium in latyn of eche halfe an ounce, put al theſe togyther i<g ref="char:cmbAbbrStroke">̄</g> a pot with good why<g ref="char:EOLunhyphen"/>te wyne, and couer the pot with a lyd &amp; cloſe the lyd with Doughe, and in the lyd make a ſmal hole, and ſtop it with a tap of woode, and let it ſeth tyll the thyrde parte be conſu<g ref="char:EOLhyphen"/>med, and drawe the tappe ſomtyme out that ye may ſmel when it is ynoughe, of this gy<g ref="char:EOLhyphen"/>ue the pacyent to drynke at mornynge, and at euenynge a ſponeful, and thoughe the pa<g ref="char:EOLunhyphen"/>cient be metely in helth yet ſhall he not dryn<g ref="char:EOLhyphen"/>ke the leſſe, and he ſhall in his dayly drynke medle .iii. or .iiii. droppes of the ſame.</p>
+            </div>
+            <div type="recipe">
+               <head>¶An other drynke for a man that hath fallen, and kroken a rybbe, whiche drynke clenſeth the breſt, and cauſeth the breth to come and go at large.</head>
+               <p>TAke crefyſſhes iyes in powder a drag<g ref="char:EOLunhyphen"/>ma, Diapenidion an ounce, Diadras ganiu<g ref="char:cmbAbbrStroke">̄</g> halfe an ounce, ſtampe all theſe togy<g ref="char:EOLhyphen"/>ther in a morter tyll they be ſmall, &amp; than put therto water of our Lady adylſtell, or aqua de tribulis Marie, aqua Cicorie, or herbe ſol<g ref="char:EOLunhyphen"/>ſequii, and make it thynne, and gyue it hym to drynke at euenynge and mornynge.</p>
+            </div>
+            <div type="recipe">
+               <pb facs="tcp:11076:20"/>
+               <head>¶An other coſtly drynke for woun<g ref="char:EOLhyphen"/>des in the heade, and alſo for all other woundes.</head>
+               <p>TAke the mydle pyll of the walte rote, or of Ambroſia in latyn, and ſcrape away the blackeneſſe therof, take alſo great Sanycle, or Diarentia maior in latyn, of eche to the quantyte of an egge, and knytte them both togyther in a lynnen clothe, and lay it in a pounde of wyne &amp; let it lye therin .vi. houres longe, then gyue the pacyent ther<g ref="char:EOLunhyphen"/>of to drynke at euenynge &amp; mornynge, and at euery tyme a ſponefull and no more, for the drynke is ſtronge, and ſtepe a lytel cloth or a cole leue in the drynke, and lay it on the wounde, whyther it be in the heed, or in any other parte or membre of the body.</p>
+               <closer>¶Perditur impune Medicina homo.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprynted by me Robert Wyer / dwellyng at the ſygne of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> Euangelyſt, in ſaynt Martyns paryſſhe, beſyde Charyn<g ref="char:EOLhyphen"/>ge Croſſe.</p>
+            <pb facs="tcp:11076:21"/>
+            <p>
+               <figure>
+                  <figDesc>printer's device of Robert Wyer, featuring John the Evangelist with eagle, and Wyer's name below (McKerrow 68 and 69)</figDesc>
+                  <head>ROBERT WYER.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:11076:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
